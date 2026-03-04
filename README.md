@@ -267,13 +267,13 @@ SELECT * FROM branch_performance_report;
 
 ## Conclusion
 
-This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying.
+The Library Management System project demonstrates the practical implementation of relational database design using PostgreSQL. It covers database creation, CRUD operations, advanced joins, CTAS, and analytical queries to track book circulation, overdue returns, rental revenue, and branch performance.
 
 ## How to Clone this Project
 
-1. **Clone the Repository:** Clone this repository to your local machine.
+1. **Clone the Repository:** Run the following code in your computer's command line interface.
    ```sh
-   https://github.com/aayushmanmukherjee/Library_Management_SQL.git
+   git clone https://github.com/aayushmanmukherjee/Library_Management_SQL.git
    ```
 
 2. **Set Up the Database and Tables:** Execute the SQL script file named `schemas.sql`
